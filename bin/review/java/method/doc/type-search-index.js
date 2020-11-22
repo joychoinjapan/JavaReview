@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"review.java.method","l":"ArgsDemo3"},{"l":"すべてのクラス","u":"allclasses-index.html"}];updateSearchResults();
